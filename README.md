@@ -22,5 +22,5 @@
 - Data Pre-Processing
 - Creating Matrix
 - Data Normalization
-- Calculating Singular Value Decomposition (SVD)
+- Computing Singular Value Decomposition (SVD)
 
